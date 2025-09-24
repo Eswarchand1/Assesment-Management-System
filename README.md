@@ -29,7 +29,6 @@ A comprehensive web application with user authentication and flexible PDF report
 1. **Clone and setup the project**:
 ```bash
 git clone <repository-url>
-cd assessment-management-system
 npm install
 ```
 
